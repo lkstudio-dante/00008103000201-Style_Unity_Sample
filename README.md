@@ -1,2 +1,2 @@
-# 00000200000101.Game_Unity_Sample
-Game - Unity Sample 프로젝트
+# 00000000000101.Code_Unity_Sample
+Code - Unity Sample 프로젝트
