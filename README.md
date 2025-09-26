@@ -1,2 +1,2 @@
-# 00009103000201-Code_Unity_Sample
-Code - Unity Sample 프로젝트
+# 00008103000201-Style_Unity_Sample
+Style - Unity Sample 프로젝트
